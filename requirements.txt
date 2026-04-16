@@ -1,0 +1,5 @@
+# Mist WLAN Best Practices – Python dependencies
+# Install with: pip install -r requirements.txt
+
+requests>=2.31.0       # HTTP client for Mist REST API
+openpyxl>=3.1.2        # Excel (.xlsx) report generation
